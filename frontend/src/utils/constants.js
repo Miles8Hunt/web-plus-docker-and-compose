@@ -1,4 +1,4 @@
-export const URL = "http://localhost:3000";
+export const URL = "http://localhost:4000"; /*"https://api.docker.miles8hunt.nomorepartiesco.ru";*/
 // http://167.235.140.175:3001
 export const MINIMUM_PASSWORD_LENGTH = 3;
 export const MINIMUM_USERNAME_LENGTH = 3;
